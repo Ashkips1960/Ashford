@@ -10,3 +10,5 @@ A project for a library management system that allows users to do the following 
 . Admin Dashboard – Displays system statistics (number of books, users, borrowed books, overdue books). -Eugene
  Add/Edit Books Page – Allows admins to add, update, or remove books.
 .Search Page – Advanced search with filters (category, author, availability).
+(The project is not finished yet as ongoing work is still done )
+
